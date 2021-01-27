@@ -1,4 +1,3 @@
 Przykładowy plik tekstowy
 Drugi przykładowy plik tekstowy
 Trzeci przykładowy plik tekstowy
-Czwarty przykładowy plik tekstowy
